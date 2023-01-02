@@ -1,5 +1,5 @@
 /**
- * Problem
+ * Problem. Difficulty: Hard
  * You are given a string s consisting of digits from 1 to 9 and an integer k.
 
     A partition of a string s is called good if:
