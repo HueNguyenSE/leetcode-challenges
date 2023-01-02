@@ -18,4 +18,4 @@ Facing a problem, this is my typical problem-solving process:
 
 5. Usually, the process would include a loop of multiple times of step 1, 2, 3, and 5, especially in solving hard problems. 
 ## For future
-The current solutions may not optimal. I may revise them in the future because the final goal is not just solving but solving in the best way.
+The current solutions may not optimal. I may revise them in the future because the ultimate goal is not just solving but solving in the best way.
