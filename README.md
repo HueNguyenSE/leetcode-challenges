@@ -1,7 +1,7 @@
 # Challenges
 
 ## About the challenges
-To shake my brain before starting a learning session, I work on a problem from [leetcode](https://leetcode.com/) which would be a good source of plenty of problems ranging from easy to hard.
+To rack my brain before starting a learning session, I work on a problem from [leetcode](https://leetcode.com/) which would be a good source of plenty of problems ranging from easy to hard.
 ## Solutions
 They are my own solutions. So far, I am most familiar with JavaScript so it would be the main language I use in this repository.
 ## Problem-solving process
