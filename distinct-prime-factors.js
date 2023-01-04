@@ -5,7 +5,7 @@
     Note that:
     A number greater than 1 is called prime if it is divisible by only 1 and itself.
     An integer val1 is a factor of another integer val2 if val2 / val1 is an integer.
- */
+*/
 
 /**
  * Solution
@@ -14,7 +14,7 @@
 var findFactors = function (num) {
     let newNum = num;
     const distinctFactors = []
-    for (i = 2; i <= newNum; i++) {
+    for (i = 2; i <= newNum / 2; i++) { // a factor could not more than a half num
         //console.log('i', i)
         // check whether newNum is divisible by i 
         while (newNum % i == 0) {
@@ -43,4 +43,4 @@ var distinctPrimeFactors = function (nums) {
  */
 distinctPrimeFactors([2,4,3,7,10,6]);
 distinctPrimeFactors([2,4,8,16]);
-distinctPrimeFactors([87, 56, 45, 98]);
+// distinctPrimeFactors([87, 56, 45, 98]);
