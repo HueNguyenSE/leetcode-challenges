@@ -14,7 +14,7 @@ Facing a problem, this is my typical problem-solving process:
 
 4. Write the solution using the programming language
 
-    Note: I often handle edge cases first.
+ I often handle edge cases first.
 
 5. Usually, the process would include a loop of multiple times of step 1, 2, 3, and 5, especially in solving hard problems. 
 ## For future
